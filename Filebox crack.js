@@ -4,7 +4,7 @@
   脚本功能：FileBox解锁高级版 
   软件版本：1.1.25 
   下载地址：http://t.cn/A6VhlcrY 
-  脚本作者：Hausd0rff 
+  脚本作者：bilibili123
   更新时间：2022-02-14 
   电报频道：https://t.me/yqc_123 
   问题反馈：https://t.me/yqc_777 
