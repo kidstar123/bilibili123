@@ -13,7 +13,7 @@
      ******************************* 
      [rewrite_local] 
      # > FileBox解锁永久高级版 
-  ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/FileBoxFProCrack.js 
+  ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/kidstar123/bilibili123/main/Filebox%20crack.js 
      [mitm]  
      hostname = api.revenuecat.com 
   * 
