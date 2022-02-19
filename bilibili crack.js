@@ -16,7 +16,7 @@
 [rewrite_local]
 
 # > 哔哩哔哩解锁大会员
-^https?:\/\/ap(i|p)\.bilibili\.com\/bilibili\.\w{3,4}\..+\/(View|PlayView|PlayConf|PlayerOnline|MainList|ViewProgress)$ url script-request-header https://raw.githubusercontent.com/kidstar123/bilibili123/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%A4%A7%E4%BC%9A%E5%91%98.js
+^https?:\/\/ap(i|p)\.bilibili\.com\/bilibili\.\w{3,4}\..+\/(View|PlayView|PlayConf|PlayerOnline|MainList|ViewProgress)$ url script-request-header https://raw.githubusercontent.com/kidstar123/bilibili123/495321d6b34261116062f365006cebbe8a2d3165/bilibili%20crack.js
 
 [mitm] 
 
